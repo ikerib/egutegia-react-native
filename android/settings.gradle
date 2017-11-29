@@ -1,0 +1,3 @@
+rootProject.name = 'egutegia'
+
+include ':app'
